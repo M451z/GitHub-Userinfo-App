@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Contributing
 
-• All kind of pull requests are welcome. Show you support by giving a ⭐.
+• All pull requests are welcome. Show your support by giving a ⭐.
 
 ## License
 
